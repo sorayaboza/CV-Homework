@@ -1,0 +1,25 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Homework 1}
+\author{Soraya Boza}
+\date{February 7, 2020}
+
+\begin{document}
+
+\maketitle
+
+\section*{Personal Information}
+Soraya Boza\\\
+sboza@ucmerced.edu\\\
+
+\section*{Education}
+I graduated Merced High School in 2019. Last semester, I took Writing 10, Introduction to Logic, Cognitive Science, and Mechanical Engineering (this one was my favorite). In Mechanical Engineering, I was introduced to coding and learned Python and MATLAB.
+
+\section*{Work Experience}
+During the summer of 2018, I worked at a French restaurant in Washington D.C. called Bistrot du Coin. In the summer of 2019, I worked at the Merced College pool as a swim and diving instructor for children. I also worked as a lifeguard.
+
+\section*{Hobbies}
+During my spare time I enjoy drawing and writing. Any ideas that I get, I either write down or draw. My favorite things to draw are cartoons and my favorite subject to write about is fiction.
+
+\end{document}
